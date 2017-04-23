@@ -48,7 +48,5 @@ In the `MainActivity.java` and update the following constants with the appropria
 * [VidyasagarMSC/WatBot](https://github.com/VidyasagarMSC/WatBot).
 * [aws-sdk-android-samples/PollyDemo](https://github.com/awslabs/aws-sdk-android-samples/tree/master/PollyDemo).
 * [android-docs-samples/speech/Speech](https://github.com/GoogleCloudPlatform/android-docs-samples/blob/master/speech/Speech/README.md).
-¥^-¥¥¥¥¥
-
 
 
